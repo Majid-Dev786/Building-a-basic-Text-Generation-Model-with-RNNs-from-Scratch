@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project is a deep dive into the basics of natural language processing and neural networks. It focuses on building a text generation model using Recurrent Neural Networks (RNNs) from scratch. 
+This project is a deep dive into the basics of natural language processing and neural networks. 
+
+It focuses on building a text generation model using Recurrent Neural Networks (RNNs) from scratch. 
 
 This Python script leverages TensorFlow to structure a simple, yet effective, model capable of generating text after learning from a given dataset.
 
